@@ -8,7 +8,7 @@ This portfolio showcases my work in HR Operations, HR Technology, SQL, Power BI 
 
 ## 👨‍💼 About Me
 
-Hi, I'm **Aditya Singh**.
+Hi, I'm **Aditya Singh** 👋.
 
 I'm an HRIS and People Operations professional with experience in HR Operations, HR Technology, SQL, Power BI and HR Analytics.
 
