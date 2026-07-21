@@ -1,17 +1,15 @@
-# hris-portfolio
-Professional HRIS Portfolio showcasing HR Operations, HR Technology, SQL, Power BI, HR Analytics and Case Studies.
-# Hi 👋
+# Hi 👋 I'm Aditya Singh
 
-## Welcome to my HRIS Portfolio
-
-This portfolio showcases my work in HR Operations, HR Technology, SQL, Power BI and HR Analytics.
+### HRIS | People Operations | HR Systems
 
 ## 👨‍💼 About Me
 
-Hi, I'm **Aditya Singh** 👋.
+I'm an HRIS and People Operations professional with experience supporting global HR operations through HR systems.
 
-I'm an HRIS and People Operations professional with experience in HR Operations, HR Technology, SQL, Power BI and HR Analytics.
+My work has primarily focused on HR systems rather than traditional HR administration. I have worked with Oracle EBS and Oracle Fusion, supporting employee data validation, UAT, HR process documentation, stakeholder coordination and post-go-live support as part of enterprise HR transformation projects.
 
-I'm passionate about improving HR processes through technology, data and automation.
+I enjoy solving HR process challenges through technology, improving data quality and contributing to process improvements.
 
-This GitHub portfolio showcases my projects, case studies, dashboards and learning journey in HR Technology.
+💡 I believe HR systems are most effective when technology, business processes and people work together.
+
+This portfolio showcases my practical work, case studies, HR analytics projects and continuous learning in HR Systems and People Operations.
