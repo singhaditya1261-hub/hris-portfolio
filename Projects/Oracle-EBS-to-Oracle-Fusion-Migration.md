@@ -1,4 +1,4 @@
-# Oracle EBS to Oracle Fusion Migration Case Study
+<img width="1904" height="715" alt="image" src="https://github.com/user-attachments/assets/22674e6f-2ad2-47c0-977b-efa292a2d1f5" /># Oracle EBS to Oracle Fusion Migration Case Study
 
 ## Project Overview
 
@@ -22,6 +22,7 @@ From a business perspective, the migration focused on:
 - Enhancing reporting capabilities and creating a stronger foundation for future HR analytics.
 - Centralizing HR information and reducing dependency on multiple external tools and regional document repositories.
 - Supporting the organization's digital transformation while reducing infrastructure and maintenance overhead associated with on-premise systems.
+
 ## My Role
 
 As an HRIS Project Team member, I supported multiple phases of the Oracle EBS to Oracle Fusion migration, including data validation, User Acceptance Testing (UAT), stakeholder coordination, end-user training and post go-live support.
@@ -112,10 +113,80 @@ flowchart TD
 
 ## Data Validation
 
+Data validation was one of the most critical phases of the migration project. The objective was to ensure that only accurate and complete employee data was migrated to Oracle Fusion.
+
+- Validated employee master data before migration.
+- Verified reporting managers, employee information and organizational hierarchy.
+- Identified duplicate employee records and missing mandatory information.
+- Compared monthly source data to identify business changes before migration.
+- Verified that employee transactions were accurately reflected before migration.
+- Performed post-migration validation by comparing migrated data with the source system.
+- Coordinated with stakeholders to resolve data discrepancies before production deployment.
+
 ## User Acceptance Testing (UAT)
+
+User Acceptance Testing (UAT) was performed to verify that Oracle Fusion supported the organization's HR business processes before production deployment.
+
+My responsibilities included:
+
+- Executed end-to-end testing for employee lifecycle transactions.
+- Tested onboarding, offboarding, transfers, reporting manager updates and other HR business processes.
+- Verified approval workflows and system-generated email notifications.
+- Logged defects and observations in the UAT tracker.
+- Coordinated with Oracle consultants to discuss issues and validate fixes.
+- Performed re-testing after fixes were deployed.
+- Participated in regular project review meetings during the UAT phase.
 
 ## Post Go-Live Support
 
+Post go-live support focused on ensuring a smooth transition for HR teams after the production deployment of Oracle Fusion.
+
+- Validated employee data after production deployment.
+- Entered business transactions captured during the freeze period.
+- Prepared and shared user manuals with HR teams and hiring managers.
+- Supported HR users during the hypercare phase by resolving process-related queries.
+- Monitored system task journeys assigned to global HR teams to ensure timely completion.
+- Generated weekly reports to track pending HR tasks and user activities.
+- Conducted fortnightly follow-up meetings with global HR teams to review incomplete tasks, clarify process-related queries and improve system adoption.
+- Coordinated with HR teams to ensure Hire-to-Retire transactions and other system activities were completed within the expected timelines.
+- Escalated unresolved issues to Oracle consultants or internal stakeholders whenever additional investigation was required.
+
 ## Challenges Faced
 
+During the implementation, the project team encountered several practical challenges that required close coordination between HR, business stakeholders and Oracle consultants.
+
+### 1. Managing Multiple Activities Simultaneously
+
+One of the biggest challenges was balancing multiple implementation activities at the same time. While source data validation and migration preparation were in progress, User Acceptance Testing (UAT) also had to be executed in parallel using test data. Careful planning and coordination were required to ensure that both activities progressed without affecting the overall project timeline.
+
+### 2. Data Quality and Migration Readiness
+
+Maintaining high data quality before migration was another key challenge. Duplicate records, missing mandatory information and data inconsistencies had to be identified and resolved before production migration to ensure accurate data transfer into Oracle Fusion.
+
+### 3. User Adoption and Change Management
+
+Moving from a legacy system to Oracle Fusion required HR teams to adapt to new processes and workflows. Some users were initially more comfortable with the previous system, making user adoption a challenge. Training sessions, user manuals, regular follow-up meetings and continuous support helped improve confidence and adoption of the new system.
+
 ## Key Learnings
+
+This project was my first large-scale HRIS implementation experience, and it gave me practical exposure to the complete implementation lifecycle. Some of my key learnings include:
+
+- Learned how to validate, analyse and correct employee master data before migration to ensure data accuracy.
+- Developed a strong understanding of how enterprise HR data should be structured and represented within an HRIS.
+- Learned how User Acceptance Testing (UAT) is performed using test environments and dummy data before deploying changes into production.
+- Understood the importance of testing every business process in a non-production environment before implementing it in the live system.
+- Improved my ability to manage multiple project activities simultaneously, including data validation, migration support and UAT execution.
+- Learned how to maintain project trackers, monitor daily progress and follow up on pending actions throughout the implementation.
+- Developed experience in identifying issues, coordinating with Oracle consultants and tracking them until resolution.
+- Improved stakeholder communication by working closely with HR teams, managers, business users and Oracle consultants across different regions.
+- Learned that the success of an HRIS implementation depends not only on technology but also on teamwork, collaboration, documentation and continuous user support.
+
+## Reflection
+
+This project was a turning point in my HR career. As a fresher, I had limited exposure to enterprise HRIS implementations, but working on the Oracle EBS to Oracle Fusion migration helped me understand how large-scale HR transformation projects are executed.
+
+Beyond learning technical concepts such as data validation, UAT and post go-live support, I also learned the importance of planning, stakeholder communication, teamwork and continuous user support. This experience built the foundation of my interest in HRIS, HR technology and digital transformation.
+
+## Conclusion
+
+The Oracle EBS to Oracle Fusion migration project provided practical exposure to enterprise HRIS implementation, including data validation, User Acceptance Testing (UAT), production deployment and post go-live support. The project strengthened my technical understanding of HR systems while also improving my stakeholder management, problem-solving and project coordination skills.
