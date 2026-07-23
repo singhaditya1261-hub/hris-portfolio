@@ -58,6 +58,58 @@ My key responsibilities included:
 
 ## Migration Process
 
+The Oracle EBS to Oracle Fusion migration followed a structured implementation approach to ensure data accuracy, business continuity and a smooth transition to the new HR system.
+
+The project was executed in the following phases:
+
+### 1. Source Data Validation
+- Validated employee master data before migration.
+- Identified duplicate records, missing information and data inconsistencies.
+- Verified reporting managers, employee details and organizational hierarchy.
+- Performed regular data quality checks to improve migration readiness.
+
+### 2. Data Comparison & Change Validation
+- Compared monthly source data with previously validated data.
+- Verified that new hires, transfers, manager changes and other business transactions were accurately reflected.
+- Ensured source data remained consistent before migration execution.
+
+### 3. Migration Execution
+- The validated data was migrated from Oracle EBS to Oracle Fusion.
+- Business transactions were temporarily frozen before production migration to maintain data consistency.
+- All transactions performed during the freeze period were tracked separately for later processing.
+
+### 4. Post-Migration Validation
+- Downloaded and validated migrated employee data.
+- Compared migrated records with the source system to ensure data accuracy.
+- Verified employee information, reporting relationships and organizational structure after migration.
+
+### 5. User Acceptance Testing (UAT)
+- Executed end-to-end testing for HR business processes.
+- Tested employee lifecycle transactions, approval workflows and email notifications.
+- Logged observations and defects in the project tracker.
+- Coordinated with Oracle consultants for issue resolution.
+
+### 6. Go-Live
+- Conducted knowledge-sharing sessions for HR teams before production deployment.
+- Supported production go-live activities.
+- Entered business transactions captured during the freeze period.
+
+### 7. Hypercare Support
+- Assisted HR teams after go-live.
+- Resolved user queries and process-related issues.
+- Shared user manuals and process documentation.
+- Conducted regular follow-up sessions to improve user adoption and monitor pending activities.
+```mermaid
+flowchart TD
+    A[Source Data] --> B[Data Validation]
+    B --> C[Monthly Data Comparison]
+    C --> D[Migration Execution]
+    D --> E[Post-Migration Validation]
+    E --> F[User Acceptance Testing]
+    F --> G[Go-Live]
+    G --> H[Hypercare Support]
+```
+
 ## Data Validation
 
 ## User Acceptance Testing (UAT)
