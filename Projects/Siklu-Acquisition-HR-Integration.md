@@ -91,32 +91,85 @@ The employee integration followed specific business rules to preserve historical
 
 ## Employee Transition Process
 
-The employee integration was carried out in a structured manner to preserve historical employee records while ensuring a smooth transition into Ceragon's HR environment.
+The employee integration followed a structured implementation approach to ensure historical employee records were preserved while maintaining system accuracy.
 
-### 1. Legacy Department Setup
-- A dedicated legacy department was created for Siklu employees in coordination with the IT team.
-- The department served as a temporary structure to preserve historical employee information.
+### 1. Business Requirement & Planning
+- Business requirements for the employee integration were discussed with management.
+- Department structure, naming convention and integration approach were finalized before implementation.
 
-### 2. Historical Data Loading
+### 2. Department Configuration
+- The approved requirements were shared with the IT team.
+- A dedicated legacy department was configured within the test environment.
+
+### 3. Testing & Validation
+- The department configuration was validated in the test environment.
+- Dummy employee scenarios were executed to verify that the department configuration behaved as expected.
+- Required corrections were completed before production deployment.
+
+### 4. Production Deployment
+- After successful validation, the department configuration was moved to the production environment.
 - Historical employee records were loaded using the agreed historical effective date.
-- Employee profile information was validated after the data load.
-- Historical salary information was not included during the initial data load, as the objective was to preserve employee history rather than current employment details.
 
-### 3. Employee Transition
-- After the agreed business effective date, employees were assigned to their respective Ceragon departments.
+### 5. Employee Transition
+- Based on the agreed business effective date, employees were assigned to their respective Ceragon departments.
 - Current organizational information such as department assignment, reporting managers and employment details was updated according to business requirements.
 
-### 4. Validation
-- Employee records were verified after the transition.
-- Historical information and current employment information were reviewed to ensure data accuracy and business continuity.
+### 6. Post Integration Validation
+- Employee records were validated after the transition.
+- Historical and current employee information were reviewed to ensure data accuracy and business continuity.
 
 ```mermaid
 flowchart TD
-    A[Siklu Acquisition] --> B[Legacy Department Created]
-    B --> C[Historical Employee Data Loaded]
-    C --> D[Historical Record Validation]
-    D --> E[Business Effective Date]
-    E --> F[Employees Assigned to Ceragon Departments]
-    F --> G[Current Employment Details Updated]
+    A[Business Requirement Approved] --> B[Test Environment Configuration]
+    B --> C[Dummy Testing & Validation]
+    C --> D[Production Deployment]
+    D --> E[Historical Employee Data Loaded]
+    E --> F[Business Effective Date]
+    F --> G[Employees Assigned to Ceragon Departments]
     G --> H[Post Integration Validation]
 ```
+
+## Challenges Faced
+
+Although the overall integration process was well planned, one of the key challenges was managing implementation timelines.
+
+- The Siklu acquisition activities were executed alongside the Oracle EBS to Oracle Fusion migration project.
+- Multiple implementation activities, including testing, validation and employee integration, had to be coordinated within the planned timelines.
+- Close coordination between HR, IT and management teams helped ensure that project milestones were achieved without affecting business operations.
+
+
+## Key Learnings
+
+This project provided my first practical exposure to an employee acquisition and integration initiative within an HRIS environment.
+
+- Gained an understanding of how employees from an acquired company are integrated into an existing HR system.
+- Learned the importance of project planning and timeline management during HRIS implementation activities.
+- Improved my understanding of data verification by comparing source employee data with system records before integration.
+- Developed practical experience working on my first acquisition-related HRIS implementation project while collaborating with HR, IT and management teams.
+
+
+## Reflection
+
+Working on this project gave me practical exposure to how business acquisitions are supported through HR systems. It strengthened my understanding of structured implementation, cross-functional collaboration and the importance of maintaining accurate employee data during organizational change.
+
+## Challenges Faced
+
+One of the primary challenges during this project was coordinating implementation activities while multiple HRIS initiatives were running in parallel.
+
+- The employee integration activities were executed alongside the Oracle EBS to Oracle Fusion migration project.
+- Testing, data validation and implementation tasks had to be completed within the planned project timelines.
+
+## Technologies Used
+
+- Oracle EBS
+- Oracle Fusion HCM
+- Microsoft Excel
+- HRIS Test Environment
+- HRIS Production Environment
+
+## Business Impact
+
+- Supported the successful HR integration of employees following the Siklu acquisition.
+- Helped ensure employee data was validated before production deployment.
+- Contributed to a structured implementation process through testing, validation and post-deployment verification.
+- Assisted in maintaining accurate employee records during the transition into the Ceragon HR system.
