@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aditya Singh
 
-### HRIS | People Operations | Oracle EBS | Oracle Fusion | HR Systems
+### HRIS | People Operations | HR Technology
 
 ---
 
@@ -8,7 +8,7 @@
 
 I'm an HRIS and People Operations professional with hands-on experience supporting global HR operations through enterprise HR systems.
 
-My work has primarily focused on Oracle EBS, Oracle Fusion, HRIS implementation, employee data validation, User Acceptance Testing (UAT), HR reporting, stakeholder coordination and post-go-live support as part of enterprise HR transformation initiatives.
+My work has primarily focused on HRIS implementation, employee data validation, User Acceptance Testing (UAT), HR reporting, stakeholder coordination and post-go-live support as part of enterprise HR transformation initiatives.
 
 I enjoy solving HR process challenges through technology, improving data quality and contributing to process improvements that enhance business operations.
 
@@ -16,20 +16,27 @@ I enjoy solving HR process challenges through technology, improving data quality
 
 ---
 
-## 🛠️ Core Skills
+## 🛠️ Core Competencies
+
+- HRIS Implementation
+- HR Operations
+- User Acceptance Testing (UAT)
+- Data Migration Validation
+- Employee Data Validation
+- HR Reporting
+- Employee Lifecycle Management
+- Global People Operations
+- HR Process Documentation
+- Stakeholder Coordination
+- Cross-functional HR & IT Collaboration
+- Post Go-Live Support
+
+---
+
+## 💻 HR Systems Exposure
 
 - Oracle EBS
 - Oracle Fusion HCM
-- HR Operations
-- HRIS Implementation
-- User Acceptance Testing (UAT)
-- Employee Data Validation
-- HR Reporting
-- Data Migration Validation
-- Employee Lifecycle Management
-- Global People Operations
-- Stakeholder Coordination
-- Cross-functional HR & IT Collaboration
 
 ---
 
@@ -46,7 +53,7 @@ I enjoy solving HR process challenges through technology, improving data quality
 ## 💼 Key Responsibilities
 
 - Hire-to-Retire Operations
-- Oracle EBS & Oracle Fusion Support
+- HR Systems Support
 - HRIS Testing (UAT)
 - Data Migration Validation
 - Dashboard Data Validation
@@ -58,16 +65,14 @@ I enjoy solving HR process challenges through technology, improving data quality
 
 ---
 
-## 🎯 Career Focus
-
-MBA (HR & IT) with practical experience in Oracle EBS, Oracle Fusion, HR Operations and HRIS implementation.
+## 🎯 Career Interests
 
 I am passionate about:
 
 - HRIS
 - HR Technology
 - People Operations
-- Oracle HCM
+- HR Systems
 - HR Digital Transformation
 - HR Analytics
 - Employee Experience
@@ -93,4 +98,6 @@ hris-portfolio/
 
 This repository showcases real-world HRIS implementation projects, HR operations case studies and practical experience gained while supporting enterprise HR transformation initiatives.
 
-The objective is to demonstrate practical knowledge of HR systems, implementation methodologies, data validation, HR reporting and cross-functional collaboration through real project documentation.
+The objective is to demonstrate practical knowledge of HR systems, implementation methodologies, employee lifecycle processes, data validation, HR reporting and cross-functional collaboration through real project documentation.
+
+The projects included here are based on real implementation work and are intended to demonstrate practical HRIS experience rather than theoretical concepts.
